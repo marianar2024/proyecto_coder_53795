@@ -1,0 +1,113 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Raleway:wght@300&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+body{
+    color:#704f19; ;
+    font-family:'Open Sans', sans-serif; 
+    line-height: initial;
+}
+
+*{
+    font-family:'Raleway', sans-serif;
+   
+}
+h1{
+    color:#79561e;
+    font-family:'Open Sans', sans-serif;
+}
+p{
+    font-family:'Raleway', sans-serif; 
+    font-size: 1rem;
+}
+
+.header{
+    background-color: rgba(230, 222, 190, 0.849);
+    .logo{
+        width: 100px;
+
+    }
+ 
+            }
+
+.Textoprincipal{
+    margin-top: 20px;
+
+    .subtituloPrincipal{
+        margin-top: 20px;
+
+    }
+
+}
+.contenedorTarjetas{
+            .tarjeta{
+            color: #c98a1f;
+            width: 500px;
+ }
+    
+    }
+
+.iconoWp{
+        position: fixed;
+        right: 10px;
+        bottom: 10px;
+        .fa-whatsapp{
+            color: rgb(33, 192, 99);
+            font-size: 5rem;
+        }
+    }
+
+    .colorGris{
+        background-color: rgba(230, 222, 190, 0.849);
+    }
+
+.bgBoton{
+    color: #eeeeee;
+    border-color: black;
+    background-color: #61461b;
+    border-radius: 25px;
+    &:hover{
+        background-color: rgb(37, 37, 36);
+
+    }
+
+}    
+.iconos{
+    text-decoration:none;
+    .fa-whatsapp, .fa-instagram{
+        font-size: 4rem;
+    }
+    .fa-instagram{
+        color: rgb(129, 41, 60);
+    }
+    .fa-whatsapp{
+        color: rgb(33, 192, 99);
+    }
+}
+
+@media screen and (max-width:768px)
+{
+footer{ section{
+    border-bottom:1px solid rgb(88, 61, 19);
+}
+
+}
+      
+    }
+
+
+    
+
+    
+
+
+       
+
+
+    
+       
+        
+      
+         
