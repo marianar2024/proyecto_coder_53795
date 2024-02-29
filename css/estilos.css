@@ -77,7 +77,7 @@ p{
 .iconos{
     text-decoration:none;
     .fa-whatsapp, .fa-instagram{
-        font-size: 4rem;
+        font-size: 2rem;
     }
     .fa-instagram{
         color: rgb(129, 41, 60);
@@ -96,7 +96,12 @@ footer{ section{
 }
       
     }
-
+.imgFondo{
+    background-image:url(../assets/img/amigas.webp);
+    height:600px;
+    background-size: cover;
+    background-position: bottom;
+}
 
     
 
