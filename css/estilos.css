@@ -102,7 +102,13 @@ footer{ section{
     background-size: cover;
     background-position: bottom;
 }
-
+.imgContacto{
+    background-image:url(../assets/img/fondo\ contacto.webp);
+    height:480px;
+    background-size: cover;
+    background-position: center; 
+    text-align: center;
+}
     
 
     
