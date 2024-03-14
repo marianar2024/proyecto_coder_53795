@@ -1,0 +1,38 @@
+.iconoWp{
+    position: fixed;
+    right: 10px;
+    bottom: 10px;
+    .fa-whatsapp{
+        color: rgb(33, 192, 99);
+        font-size: 5rem;
+    }
+}
+
+.colorGris{
+    background-color: rgba(230, 222, 190, 0.849);
+}
+
+
+
+.iconos{
+text-decoration:none;
+.fa-whatsapp, .fa-instagram{
+    font-size: 2rem;
+}
+.fa-instagram{
+    color: rgb(129, 41, 60);
+}
+.fa-whatsapp{
+    color: map-get($redes , $wpp);
+}
+}
+
+@media screen and (max-width:768px)
+{
+footer{ section{
+border-bottom:1px solid rgb(88, 61, 19);
+}
+
+}
+  
+}

@@ -1,0 +1,9 @@
+@mixin mixinHeight{
+    height: 250px;
+}
+
+@mixin flex-row-center{
+	display:$flex;
+	flex-direction:row;
+	justify-content:center;
+}

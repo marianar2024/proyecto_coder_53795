@@ -1,0 +1,18 @@
+.bgBoton{
+    color: #eeeeee;
+    border-color: black;
+    background-color: #61461b;
+    border-radius: 25px;
+    &:hover{
+        background-color: rgb(37, 37, 36);
+
+    }
+
+}    
+.imgContacto{
+    background-image:url(../assets/img/fondo\ contacto.webp);
+    height:480px;
+    background-size: cover;
+    background-position: center; 
+    text-align: center;
+}
